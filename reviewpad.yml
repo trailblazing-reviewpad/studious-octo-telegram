@@ -1,3 +1,6 @@
+extends:
+  - https://github.com/trailblazing-reviewpad/.github/blob/main/reviewpad/common-rules.yml
+
 groups:
   - name: mandatory-checks
     spec: '["build"]'
